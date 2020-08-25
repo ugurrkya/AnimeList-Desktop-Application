@@ -23,15 +23,15 @@ The system will be created such desktop application called GUI. To create it, Ja
 - Graphical User Interface(GUI)
 # Screenshots
 <div>
-<img src="https://user-images.githubusercontent.com/60930674/91192763-fc779b00-e6fe-11ea-9394-dc973a5dfbaa.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192778-026d7c00-e6ff-11ea-92f3-cdae64a46565.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192789-07323000-e6ff-11ea-8337-ec952c325bbf.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192809-10230180-e6ff-11ea-8996-54e8aa5bb51f.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192867-1e711d80-e6ff-11ea-9c27-8baed7e41566.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192898-28931c00-e6ff-11ea-8b4a-389cc7ba1a7f.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192909-2cbf3980-e6ff-11ea-8865-9fc8ac805d33.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192922-3052c080-e6ff-11ea-9563-66f1bc968cd8.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192939-3648a180-e6ff-11ea-9f01-9a6a6de8b502.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/60930674/91192950-3c3e8280-e6ff-11ea-8bda-1109cee9ec9b.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192763-fc779b00-e6fe-11ea-9394-dc973a5dfbaa.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192778-026d7c00-e6ff-11ea-92f3-cdae64a46565.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192789-07323000-e6ff-11ea-8337-ec952c325bbf.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192809-10230180-e6ff-11ea-8996-54e8aa5bb51f.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192867-1e711d80-e6ff-11ea-9c27-8baed7e41566.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192898-28931c00-e6ff-11ea-8b4a-389cc7ba1a7f.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192909-2cbf3980-e6ff-11ea-8865-9fc8ac805d33.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192922-3052c080-e6ff-11ea-9563-66f1bc968cd8.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192939-3648a180-e6ff-11ea-9f01-9a6a6de8b502.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/60930674/91192950-3c3e8280-e6ff-11ea-8bda-1109cee9ec9b.png" width="600" height="400">
 </div>
 
